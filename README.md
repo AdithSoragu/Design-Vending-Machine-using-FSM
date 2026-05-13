@@ -35,3 +35,7 @@ The `coin` input is a 2-bit signal:
 
 ---
 Developed as part of the [adithprojects](https://github.com/AdithSoragu/adithprojects) collection.
+
+------
+
+*Simulation Results
