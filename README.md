@@ -39,3 +39,6 @@ Developed as part of the [adithprojects](https://github.com/AdithSoragu/adithpro
 ------
 
 *Simulation Results
+
+<img width="1364" height="732" alt="image" src="https://github.com/user-attachments/assets/0cd20d59-750b-4fac-b8b9-dc5c0b85c0ab" />
+
