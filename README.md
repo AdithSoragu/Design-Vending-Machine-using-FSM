@@ -1,5 +1,11 @@
 # Vending Machine Controller using FSM
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Verilog-blue">
+  <img src="https://img.shields.io/badge/Simulation-ModelSim-green">
+  <img src="https://img.shields.io/badge/Status-Completed-success">
+</p>
+
 A Verilog implementation of a synchronous Vending Machine controller using a Finite State Machine (FSM). This design tracks coin inputs and dispenses a bottle once the required amount (15 units) is reached.
 
 ## 🚀 Design Overview
